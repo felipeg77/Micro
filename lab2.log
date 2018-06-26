@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.5.22)  25 JUN 2018 20:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.5.22)  25 JUN 2018 20:36
 entering extended mode
 **./lab2.tex
 (lab2.tex
@@ -1000,10 +1000,10 @@ LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 15548 strings out of 493303
- 293440 string characters out of 3138841
- 335933 words of memory out of 3000000
- 18824 multiletter control sequences out of 15000+200000
+ 15545 strings out of 493303
+ 293415 string characters out of 3138841
+ 335905 words of memory out of 3000000
+ 18821 multiletter control sequences out of 15000+200000
  30842 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,54p,406b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1011,7 +1011,7 @@ Here is how much of TeX's memory you used:
 iKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
 tmr8a.pfb>
-Output written on lab2.pdf (1 page, 27229 bytes).
+Output written on lab2.pdf (1 page, 31709 bytes).
 PDF statistics:
  22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
