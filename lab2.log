@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.5.22)  25 JUN 2018 20:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.5.22)  27 JUN 2018 10:53
 entering extended mode
 **./lab2.tex
 (lab2.tex
@@ -991,29 +991,42 @@ G,.JBIG2,.JB2,.eps]
 )
 \c@lstlisting=\count143
 
-ABD: EveryShipout initializing macros [1{C:/Users/JonathanCh/AppData/Local/MiKT
-eX/2.9/pdftex/config/pdftex.map}
+ABD: EveryShipout initializing macros
+
+pdfTeX warning: pdflatex (file ./graph.pdf): PDF inclusion: found PDF version <
+1.7>, but at most version <1.5> allowed
+<graph.pdf, id=4, 552.87456pt x 581.9373pt>
+File: graph.pdf Graphic file (type pdf)
+<use graph.pdf>
+Package pdftex.def Info: graph.pdf  used on input line 28.
+(pdftex.def)             Requested size: 258.0pt x 271.57481pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 28--30
+ [][] 
+ []
+
+[1{C:/Users/JonathanCh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
-] (lab2.aux
+ <./graph.pdf>] (lab2.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 15545 strings out of 493303
- 293415 string characters out of 3138841
- 335905 words of memory out of 3000000
- 18821 multiletter control sequences out of 15000+200000
- 30842 words of font info for 58 fonts, out of 3000000 for 9000
+ 15553 strings out of 493303
+ 293538 string characters out of 3138841
+ 337913 words of memory out of 3000000
+ 18828 multiletter control sequences out of 15000+200000
+ 33027 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,54p,406b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/M
 iKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
 tmr8a.pfb>
-Output written on lab2.pdf (1 page, 33109 bytes).
+Output written on lab2.pdf (1 page, 55448 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
+ 35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
