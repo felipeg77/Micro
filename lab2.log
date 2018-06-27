@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.5.22)  27 JUN 2018 10:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.5.22)  27 JUN 2018 11:26
 entering extended mode
 **./lab2.tex
 (lab2.tex
@@ -1005,28 +1005,40 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 28--30
  [][] 
  []
 
-[1{C:/Users/JonathanCh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
- <./graph.pdf>] (lab2.aux
+pdfTeX warning: pdflatex (file ./graph2.pdf): PDF inclusion: found PDF version 
+<1.7>, but at most version <1.5> allowed
+<graph2.pdf, id=5, 254.64034pt x 584.0128pt>
+File: graph2.pdf Graphic file (type pdf)
+<use graph2.pdf>
+Package pdftex.def Info: graph2.pdf  used on input line 37.
+(pdftex.def)             Requested size: 127.31985pt x 292.00568pt.
+
+Underfull \vbox (badness 1838) has occurred while \output is active []
+
+ [1{C:/Users/JonathanCh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+ <./graph.pdf> <./graph2.pdf>] (lab2.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 15553 strings out of 493303
- 293538 string characters out of 3138841
+ 15558 strings out of 493303
+ 293631 string characters out of 3138841
  337913 words of memory out of 3000000
- 18828 multiletter control sequences out of 15000+200000
+ 18832 multiletter control sequences out of 15000+200000
  33027 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,54p,406b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,7n,54p,406b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/M
 iKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
 tmr8a.pfb>
-Output written on lab2.pdf (1 page, 55448 bytes).
+Output written on lab2.pdf (1 page, 60883 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
